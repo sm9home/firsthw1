@@ -1,8 +1,6 @@
-#include “myProject.h"
-int printMyName2(void) 
+#include "myProject.h"
+int printMyName2(void)
 {
-
-    printf (“my name is [Song Jong Wook]\n”); 
-    return 1;
-
+	printf("my name is [Song Jonh Wok]\n");
+	return 1;
 }
