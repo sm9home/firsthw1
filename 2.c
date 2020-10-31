@@ -1,5 +1,5 @@
 #include “myProject.h"
-int printMyName1(void) 
+int printMyName2(void) 
 {
 
     printf (“my name is [Song Jong Wook]\n”); 
